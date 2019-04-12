@@ -1,1 +1,1 @@
-This is sephtecs first git project!
+This is sephtecs <s>first</s> second git project!
